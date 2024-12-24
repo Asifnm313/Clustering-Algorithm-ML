@@ -1,5 +1,5 @@
 # CLUSTERING ALGORITHM IN MACHINE-LANGUAGE
-CLUSTERING ALGORITHM IN MACHINE LEARNING
+
 ## Iris Dataset Clustering Analysis
 ## Objective
 This project applies KMeans and Hierarchical Clustering techniques to the Iris dataset to group similar data points and analyze patterns without predefined labels.
